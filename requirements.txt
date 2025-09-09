@@ -1,0 +1,6 @@
+Flask
+flask-restful
+PyJWT
+python-dotenv
+psycopg2-binary
+redis
